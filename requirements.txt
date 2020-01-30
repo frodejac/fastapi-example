@@ -1,0 +1,4 @@
+fastapi
+pydantic
+starlette==0.12.9
+uvicorn
